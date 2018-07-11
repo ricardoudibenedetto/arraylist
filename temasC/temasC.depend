@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1531272018 source:c:\users\pc\desktop\temasc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"temas.h"
+	"usuario.h"
+
+1531262428 source:c:\users\pc\desktop\temasc\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531262399 c:\users\pc\desktop\temasc\arraylist.h
+
+1531271311 source:c:\users\pc\desktop\temasc\temas.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"temas.h"
+	"usuario.h"
+
+1531265729 c:\users\pc\desktop\temasc\temas.h
+	<stdio.h>
+	<stdlib.h>
+
+1531271311 c:\users\pc\desktop\temasc\usuario.h
+	<stdio.h>
+	<stdlib.h>
+
+1531271311 source:c:\users\pc\desktop\temasc\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"temas.h"
+	"usuario.h"
+

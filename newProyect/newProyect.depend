@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1531272491 source:c:\users\pc\desktop\newproyect\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531272506 c:\users\pc\desktop\newproyect\arraylist.h
+
+1531272836 source:c:\users\pc\desktop\newproyect\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"libreria.h"
+
+1531272877 c:\users\pc\desktop\newproyect\libreria.h
+	<stdio.h>
+	<stdlib.h>
+
+1531272909 source:c:\users\pc\desktop\newproyect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"libreria.h"
+
